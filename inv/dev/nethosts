@@ -33,7 +33,7 @@ ansible_network_os=eos
 ;sw-7
 ;
 ;[nxosswitches:vars]
-;ansible_network_os=nxos        
+;ansible_network_os=nxos
 ;
 [vyosswitches]
 ;sw-8
